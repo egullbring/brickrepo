@@ -1,6 +1,6 @@
 // Databricks notebook source
 spark.conf.set("dfs.adls.oauth2.access.token.provider.type", "ClientCredential")
-spark.conf.set("dfs.adls.oauth2.client.id", "47939dd7-a374-45f9-aa5d-bd6f71b6fbfa")
+spark.conf.set("dfs.adls.oauth2.client.id", "")
 spark.conf.set("dfs.adls.oauth2.credential", "")
 spark.conf.set("dfs.adls.oauth2.refresh.url", "https://login.microsoftonline.com/microsoft.onmicrosoft.com/oauth2/token")
 
